@@ -2,8 +2,8 @@
 # Question-1:
 
 # Write the Python code that perform the following task:
-Input file:
-Patent No: EP3277024B1
+. Input file:
+. Patent No: EP3277024B1
 Application No: EP2017189488A
 Disclosure information:
 ISLD : ISLD-201805-014 Disc : 92 Project : 3GPP NR Rel 15 Standard : TS 38.331 Version : Section : Disclosure-Date : 05/04/18
