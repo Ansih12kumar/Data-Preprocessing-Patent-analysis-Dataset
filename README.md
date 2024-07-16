@@ -1,7 +1,7 @@
 # Data-Preprocessing-Patent-analysis-Dataset
-Question-1:
+# Question-1:
 
-Write the Python code that perform the following task:
+# Write the Python code that perform the following task:
 Input file:
 Patent No: EP3277024B1
 Application No: EP2017189488A
