@@ -5,32 +5,29 @@
 Write Python code that performs the following task:
 
 ### Input File
-## Patent Information
 
-- **Patent No:** EP3277024B1
-- **Application No:** EP2017189488A
 
 ## Disclosure Information
 
 
 
+### Patent Information
+- **Patent No:** EP3277024B1
+- **Application No:** EP2017189488A
+### Disclosure information:
+- ISLD : ISLD-201805-014 Disc : 92 Project : 3GPP NR Rel 15 Standard : TS 38.331 Version : Section : Disclosure-Date : 05/04/18
+- ISLD : ISLD-201805-014 Disc : 92 Project : 3GPP NR Rel 15 Standard : TS 38.331 Version : Section : Disclosure-Date : 05/04/18
+- ISLD : ISLD-201805-018 Disc : 58 Project : 3GPP NR Rel 15 Standard : TS 38.331 Version : Section : Disclosure-Date : 05/11/18
+- ISLD : ISLD-201905-014 Disc : 26 Project : 3GPP 5G NR Standard : TS 38.300|TS 38.321|TS 38.331 Version : 15.1.0|15.1.0|15.1.0
+- Section : || Disclosure-Date : 05/09/19
+### Specification file:
+### This file contains Specification to Working Group distribution
+- Specification: TS 03.38
+- Working Group: CT WG 1 
+### Output file:
+- Output file should contain all the columns as attached in zip folder
 
-Patent No: EP3277024B1
-Application No: EP2017189488A
-Disclosure information:
-ISLD : ISLD-201805-014 Disc : 92 Project : 3GPP NR Rel 15 Standard : TS 38.331 Version : Section : Disclosure-Date : 05/04/18
-ISLD : ISLD-201805-014 Disc : 92 Project : 3GPP NR Rel 15 Standard : TS 38.331 Version : Section : Disclosure-Date : 05/04/18
-ISLD : ISLD-201805-018 Disc : 58 Project : 3GPP NR Rel 15 Standard : TS 38.331 Version : Section : Disclosure-Date : 05/11/18
-ISLD : ISLD-201905-014 Disc : 26 Project : 3GPP 5G NR Standard : TS 38.300|TS 38.321|TS 38.331 Version : 15.1.0|15.1.0|15.1.0
-Section : || Disclosure-Date : 05/09/19
-Specification file:
-This file contains Specification to Working Group distribution
-Specification: TS 03.38
-Working Group: CT WG 1 
-Output file:
-Output file should contain all the columns as attached in zip folder
-
-Process to be followed:
+### Process to be followed:
 
 1. Extract all the Specification information (That starts with TS [eg: TS 38.331]) from Column “C” (Disclosure Information).
 Hint: Specification information always starts after the “Standard :” tag and ends before “Version :” in column C
