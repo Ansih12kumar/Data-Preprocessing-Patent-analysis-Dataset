@@ -5,6 +5,14 @@
 Write Python code that performs the following task:
 
 ### Input File
+## Patent Information
+
+- **Patent No:** EP3277024B1
+- **Application No:** EP2017189488A
+
+## Disclosure Information
+
+
 
 
 Patent No: EP3277024B1
