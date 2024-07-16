@@ -7,6 +7,7 @@
 Application No: EP2017189488A
 Disclosure information:
 ISLD : ISLD-201805-014 Disc : 92 Project : 3GPP NR Rel 15 Standard : TS 38.331 Version : Section : Disclosure-Date : 05/04/18
+ISLD : ISLD-201805-014 Disc : 92 Project : 3GPP NR Rel 15 Standard : TS 38.331 Version : Section : Disclosure-Date : 05/04/18
 ISLD : ISLD-201805-018 Disc : 58 Project : 3GPP NR Rel 15 Standard : TS 38.331 Version : Section : Disclosure-Date : 05/11/18
 ISLD : ISLD-201905-014 Disc : 26 Project : 3GPP 5G NR Standard : TS 38.300|TS 38.321|TS 38.331 Version : 15.1.0|15.1.0|15.1.0
 Section : || Disclosure-Date : 05/09/19
